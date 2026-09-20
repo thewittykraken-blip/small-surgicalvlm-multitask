@@ -1,0 +1,8 @@
+task,n_samples,n_candidates,top1_retrieval_accuracy
+Safety Assessment,800,7,0.68125
+Tissue and Organ Recognition,800,19,0.54375
+Phase Recognition,800,102,0.3925
+Instrument Recognition,800,263,0.2725
+Action Recognition,800,259,0.21625
+Triplet Recognition,800,300,0.12875
+Surgical Image Captioning,800,775,0.0175

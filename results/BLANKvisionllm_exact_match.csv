@@ -1,0 +1,8 @@
+task,exact_match
+Safety Assessment,0.7525
+Action Recognition,0.315
+Instrument Recognition,0.07125
+Triplet Recognition,0.05
+Phase Recognition,0.0175
+Surgical Image Captioning,0.0
+Tissue and Organ Recognition,0.0

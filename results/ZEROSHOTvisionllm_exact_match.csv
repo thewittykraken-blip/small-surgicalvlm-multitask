@@ -1,0 +1,8 @@
+task,exact_match
+Phase Recognition,0.0725
+Action Recognition,0.0
+Instrument Recognition,0.0
+Safety Assessment,0.0
+Surgical Image Captioning,0.0
+Tissue and Organ Recognition,0.0
+Triplet Recognition,0.0

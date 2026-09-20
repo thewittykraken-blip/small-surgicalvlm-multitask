@@ -1,0 +1,7 @@
+Metric,Value
+Task-Identity Probe Accuracy,0.21785714285714286
+Task-Identity Probe Precision,0.21444307082645078
+Task-Identity Probe Recall,0.21785714285714286
+Task-Identity Probe F1,0.20171302679869013
+Mean Cosine Similarity,0.21413996815681458
+Median Cosine Similarity,0.22162026166915894
